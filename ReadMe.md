@@ -12,11 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZiyovuddinTolipov&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyovuddinTolipov&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=tolipov_uz)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZiyovuddinTolipov&limit=5&theme=dark&combine_all_yearly_contributions=true)
