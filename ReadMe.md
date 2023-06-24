@@ -21,7 +21,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ZiyovuddinTolipov&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-![](https://visitcount.itsvg.in/api?id=ZiyovuddinTolipov&icon=0&color=0)![wakatime](https://wakatime.com/badge/user/7abc18bc-d636-4cf1-ab88-4e1224d703ab.svg)
+![](https://visitcount.itsvg.in/api?id=ZiyovuddinTolipov&icon=0&color=0)![coding time](https://wakatime.com/badge/user/7abc18bc-d636-4cf1-ab88-4e1224d703ab.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
