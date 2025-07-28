@@ -17,13 +17,5 @@
 ![](https://www.codewars.com/users/ziyoviddinweb/badges/large)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZiyovuddinTolipov&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 ![](https://visitcount.itsvg.in/api?id=ZiyovuddinTolipov&icon=0&color=1)![coding time](https://wakatime.com/badge/user/7abc18bc-d636-4cf1-ab88-4e1224d703ab.svg)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ziyovuddin) 
-
-
-
